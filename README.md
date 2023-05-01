@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" alt="Godot Logo" width="128" height="128">
+</p>
 # 🕹️ Godot Experiments
 
 This repository will contain various small game prototypes, intended to help me learn and experiment with Godot 4 and GDScript. Each folder will represent a different prototype, designed to explore specific genres.
