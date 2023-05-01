@@ -1,0 +1,19 @@
+[gd_scene load_steps=4 format=3 uid="uid://cov5gwohruh5t"]
+
+[ext_resource type="Script" path="res://Character/player.gd" id="1_ihtfa"]
+[ext_resource type="Texture2D" uid="uid://beq3umnlhlbuj" path="res://Art/Legacy-Fantasy - High Forest 2.3/Character/Idle/Idle-Sheet.png" id="1_u45kx"]
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_sojk5"]
+radius = 9.0
+height = 44.0
+
+[node name="Player" type="CharacterBody2D"]
+script = ExtResource("1_ihtfa")
+
+[node name="Sprite" type="Sprite2D" parent="."]
+texture = ExtResource("1_u45kx")
+hframes = 4
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(0, 2)
+shape = SubResource("CapsuleShape2D_sojk5")
