@@ -29,5 +29,4 @@ These projects are for educational purposes only and are not licensed for any ot
 
 ### Platformer
 
-Pixel Art: [Sidescroller Pixelart Sprites Asset Pack - Forest 16x16](https://anokolisa.itch.io/sidescroller-pixelart-sprites-asset-pack-forest-16x16) by Anokolisa.
-
+Pixel Art: [Sidescroller Pixelart Sprites Asset Pack - Forest 16x16](https://anokolisa.itch.io/sidescroller-pixelart-sprites-asset-pack-forest-16x16) by Anokolisa. Please support them by [rating it](https://anokolisa.itch.io/sidescroller-pixelart-sprites-asset-pack-forest-16x16/rate) on itch.io.
