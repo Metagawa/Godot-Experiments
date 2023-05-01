@@ -1,7 +1,6 @@
 # 🕹️ Godot Experiments
 
-This repository will contain various small game prototypes, intended to help me learn and experiment with Godot 4 and GDScript. Each folder will represent a different prototype, 
-designed to explore specific game types in this engine.
+This repository will contain various small game prototypes, intended to help me learn and experiment with Godot 4 and GDScript. Each folder will represent a different prototype, designed to explore specific genres.
 
 ## 🎮 Planned Projects
 
@@ -26,3 +25,8 @@ Feel free to create an issue if you find any bugs or have suggestions for improv
 
 These projects are for educational purposes only and are not licensed for any other use.
 
+## 🏆 Credits
+
+### Platformer
+
+Pixel Art: [Sidescroller Pixelart Sprites Asset Pack - Forest 16x16](https://anokolisa.itch.io/sidescroller-pixelart-sprites-asset-pack-forest-16x16) by Anokolisa. Please support them by [rating it](https://anokolisa.itch.io/sidescroller-pixelart-sprites-asset-pack-forest-16x16/rate) on itch.io.
